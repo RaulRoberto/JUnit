@@ -2,9 +2,9 @@
 Starting on JUnit
 ```json
 {
-    name: "Raul Dias",
-    learning: "JUnit",
-    mentor: "Gustavo Farias"
+    "name": "Raul Dias",
+    "learning": "JUnit",
+    "mentor": "Gustavo Farias"
 }
 ```
 
